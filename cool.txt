@@ -1,0 +1,2 @@
+ git remote add :
+This command let you add your repository url to a project, you are type 'git remote add origin {{your repo url}} to set your repo, to contribute to someone else repo you have to set the remote to theirs 'git remote add upstream {{destination_url}}. To show the list of all the remote added: do 'git remote -v' to remove a remote from the repo, git remote rm {{origin||upstream}}
